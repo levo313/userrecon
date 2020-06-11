@@ -1041,3 +1041,12 @@ partial
 banner
 scanner
 
+cd userrecon
+chmod +x userrecon.sh
+./userrecon.sh
+Tunahan URKAN
+
+
+
+
+
